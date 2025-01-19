@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Ross Heaney and I am a full stack developer based in Galway. 
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Ross
 
 ### Contact me
 

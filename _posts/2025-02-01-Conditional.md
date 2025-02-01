@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conditional bloom filers 
+title: Code Snippets
 ---
 # Conditional Bloom Filters
 

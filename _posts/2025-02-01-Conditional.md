@@ -4,7 +4,7 @@ title: Code Snippets
 ---
 # Conditional Bloom Filters
 
-``` Python 
+``` python 
 import xxhash
 import math
 import random
